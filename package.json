@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@abstract-foundation/agw-client": "^0.0.1-alpha.3",
-    "@abstract-foundation/agw-react": "^0.0.1-alpha.12",
+    "@abstract-foundation/agw-client": "^0.0.1-beta.1",
+    "@abstract-foundation/agw-react": "^0.0.1-beta.1",
     "next": "14.2.13",
     "react": "^18",
     "react-dom": "^18",
