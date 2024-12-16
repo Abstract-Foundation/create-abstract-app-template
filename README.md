@@ -38,7 +38,7 @@ Start editing the page by modifying `app/page.tsx`. The page auto-updates as you
 
 Open your browser and navigate to [`http://localhost:3000`](http://localhost:3000) to see the app in action.
 
-## Learn More
+## Learn More About Abstract
 
 To learn more about Abstract, check out our developer resources:
 
